@@ -16,7 +16,7 @@
     "dotenv": "^16.0.0",
     "fastify": "^3.28.0",
     "fastify-cors": "^6.0.3",
-    "nodemon": "^2.0.15",
+    "nodemon": "^2.0.18",
     "short-uuid": "^4.2.0",
     "socket.io": "^4.4.1"
   },
